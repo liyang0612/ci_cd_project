@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins，test push
+          成功吧靓仔。Learn Jenkins，test push
         </a>
       </header>
     </div>
